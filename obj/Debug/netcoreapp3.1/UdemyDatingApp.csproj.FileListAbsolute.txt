@@ -16,3 +16,5 @@ C:\Users\joaqu\Code\Learn\ASPdotNET\UdemyDatingApp\obj\Debug\netcoreapp3.1\Udemy
 C:\Users\joaqu\Code\Learn\ASPdotNET\UdemyDatingApp\obj\Debug\netcoreapp3.1\UdemyDatingApp.RazorTargetAssemblyInfo.cache
 C:\Users\joaqu\Code\Learn\ASPdotNET\UdemyDatingApp\obj\Debug\netcoreapp3.1\UdemyDatingApp.dll
 C:\Users\joaqu\Code\Learn\ASPdotNET\UdemyDatingApp\obj\Debug\netcoreapp3.1\UdemyDatingApp.pdb
+C:\Users\joaqu\Code\Learn\ASPdotNET\UdemyDatingApp\bin\Debug\netcoreapp3.1\resources\UserSeedData (1).json
+C:\Users\joaqu\Code\Learn\ASPdotNET\UdemyDatingApp\bin\Debug\netcoreapp3.1\resources\UserSeedData.json
