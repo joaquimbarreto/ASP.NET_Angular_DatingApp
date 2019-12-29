@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\joaqu\\Code\\Learn\\ASPdotNET\\UdemyDatingApp\\UdemyDatingApp.csproj": {}
+    "c:\\Users\\joaqu\\Code\\Learn\\ASPdotNET\\UdemyDatingApp\\UdemyDatingApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\joaqu\\Code\\Learn\\ASPdotNET\\UdemyDatingApp\\UdemyDatingApp.csproj": {
+    "c:\\Users\\joaqu\\Code\\Learn\\ASPdotNET\\UdemyDatingApp\\UdemyDatingApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\joaqu\\Code\\Learn\\ASPdotNET\\UdemyDatingApp\\UdemyDatingApp.csproj",
+        "projectUniqueName": "c:\\Users\\joaqu\\Code\\Learn\\ASPdotNET\\UdemyDatingApp\\UdemyDatingApp.csproj",
         "projectName": "UdemyDatingApp",
-        "projectPath": "C:\\Users\\joaqu\\Code\\Learn\\ASPdotNET\\UdemyDatingApp\\UdemyDatingApp.csproj",
+        "projectPath": "c:\\Users\\joaqu\\Code\\Learn\\ASPdotNET\\UdemyDatingApp\\UdemyDatingApp.csproj",
         "packagesPath": "C:\\Users\\joaqu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\joaqu\\Code\\Learn\\ASPdotNET\\UdemyDatingApp\\obj\\",
+        "outputPath": "c:\\Users\\joaqu\\Code\\Learn\\ASPdotNET\\UdemyDatingApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -42,6 +42,16 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
